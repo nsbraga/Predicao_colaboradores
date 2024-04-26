@@ -8,7 +8,7 @@ Uma empresa de Contact Center e Customer Experience contrata muitas pessoas anua
 
 A empresa quer testar técnicas de People Analytics para ajudar o time de Atração de Talentos a selecionar colaboradores com potencial de boa performance. Os analistas de dados devem analisar o histórico de 7.240 colaboradores e sua performance após 6 meses de contratação para responder:
 
-Quais fatores o time de Atração de Talentos deve olhar para selecionar candidatos com maior chance de ter boa performance após 6 meses à data da contratação?
+1. Quais fatores o time de Atração de Talentos deve olhar para selecionar candidatos com maior chance de ter boa performance após 6 meses à data da contratação?
 
 2. Com base nisso, qual política de contratação deve passar a valer de forma que a empresa aumente as boas contratações?
 
